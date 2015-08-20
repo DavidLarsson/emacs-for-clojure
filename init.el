@@ -2,6 +2,8 @@
 ;; Packages
 ;;;;
 
+(require 'iso-transl)
+
 ;; Define package repositories
 (require 'package)
 (add-to-list 'package-archives
